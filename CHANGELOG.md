@@ -1,4 +1,4 @@
-## UNRELEASED
+## 1.4.3 (March 5, 2019)
 
 ## 1.7.1 (February 20, 2020)
 
